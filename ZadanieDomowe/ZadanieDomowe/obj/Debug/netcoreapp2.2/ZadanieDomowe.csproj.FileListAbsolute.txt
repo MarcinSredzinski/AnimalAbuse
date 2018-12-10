@@ -1,0 +1,11 @@
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\bin\Debug\netcoreapp2.2\ZadanieDomowe.deps.json
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\bin\Debug\netcoreapp2.2\ZadanieDomowe.runtimeconfig.json
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\bin\Debug\netcoreapp2.2\ZadanieDomowe.runtimeconfig.dev.json
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\bin\Debug\netcoreapp2.2\ZadanieDomowe.dll
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\bin\Debug\netcoreapp2.2\ZadanieDomowe.pdb
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.csprojAssemblyReference.cache
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.csproj.CoreCompileInputs.cache
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.AssemblyInfoInputs.cache
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.AssemblyInfo.cs
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.dll
+C:\Users\msred\Desktop\szkolenie\zadania\zadanieDomowe\ZadanieDomowe\ZadanieDomowe\obj\Debug\netcoreapp2.2\ZadanieDomowe.pdb
