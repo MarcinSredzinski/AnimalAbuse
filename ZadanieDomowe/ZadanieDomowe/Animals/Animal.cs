@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace ZadanieDomowe.Animals
 {
-    public abstract class Animal : IEscape, ILivingCreature
+    public abstract class Animal : IEscape, ILivingCreature     //zwierzę powinno dostawać informację okrężną drogą że jest ścigane
     {
         protected virtual bool IsSuccesfull()
         {
@@ -21,7 +21,7 @@ namespace ZadanieDomowe.Animals
 
         public string NameOfAnimial()
         {
-            return GetType().Name.ToString();
+            return GetType().Name.ToString();   //todo przerzuć do ILivingCreature i daj jako property w geterze. 
         }
 
         public virtual void RunAway()
